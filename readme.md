@@ -158,25 +158,15 @@ select products.id, products.title, products.price, products.user_id, users.name
 * dbase
 * sqlite
 
+# order when creating table
 
+* users 
+* products
+* categories
+* product_category
 
-
-
-
-
-
-
-
-
-
-
-
-
-# users 
-# products
-# categories
-# product_category
-
-
-
-
+# order when dropping table
+* product_category
+* categories
+* products
+* users 
